@@ -3,7 +3,7 @@ import 'dart:ui';
 import 'package:tinybank/models/transferencia.dart';
 import 'package:flutter/material.dart';
 
-import 'formulario_transferencia.dart';
+import 'formulario.dart';
 
 const _titleAppBar = 'Transferências';
 const _messageNaoExisteTransferencia = 'Adicione uma transferência.';

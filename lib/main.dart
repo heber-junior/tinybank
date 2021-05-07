@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'screens/lista_transferencia.dart';
+import 'screens/transferencia/lista.dart';
 
 void main() => runApp(TinybankApp());
 
